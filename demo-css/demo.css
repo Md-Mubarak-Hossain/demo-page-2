@@ -47,7 +47,7 @@
     }
 
     .background-imgs {
-        background-image: url("/images/ladi.png");
+        background-image: url("/ladi.png");
         background-attachment: fixed;
         background-position: top;
         background-repeat: no-repeat;
